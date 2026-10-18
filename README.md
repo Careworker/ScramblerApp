@@ -1,9 +1,9 @@
 # Scrambler App
 The Scrambler is a simple, modern, Python encryption tool that makes it easy to secure and/or obfuscate messages, files, and data. It leverages OpenSSL AES-256 with PBKDF2 to encrypt contents. See the "Documentation" section of this guide for more details.
-* Github repo: https://github.com/ArcticTechnology/ScramblerApp
+* Github repo: https://github.com/Careworker/ScramblerApp
 * PyPi: https://pypi.org/project/ScramblerApp/
 
-![alt text](https://github.com/ArcticTechnology/ScramblerApp/blob/main/doc/scrambler-preview.gif?raw=true)
+![alt text](https://github.com/Careworker/ScramblerApp/blob/main/doc/scrambler-preview.gif?raw=true)
 
 ## Prerequisites
 For Windows, it is recommended to run this app on a Linux emulation layer such as the Git Bash terminal. See the "Instructions for Git Bash" section for details. In addition to Git Bash, make sure you have Python3, Pip3, and OpenSSL as described below.
@@ -25,7 +25,7 @@ pip3 install ScramblerApp
 ```
 * Local Install - Alternatively, you can download or git clone the Github repo and install it locally with the following:
 ```
-git clone https://github.com/ArcticTechnology/ScramblerApp.git
+git clone https://github.com/Careworker/ScramblerApp.git
 cd ScramblerApp
 pip3 install -e .
 ```
@@ -46,7 +46,7 @@ scramblerapp
 python3 -m scramblerapp
 ```
 Either method should bring up the main menu which looks follows:
-![alt text](https://github.com/ArcticTechnology/ScramblerApp/blob/main/doc/scrambler-mainmenu.png?raw=true)
+![alt text](https://github.com/Careworker/ScramblerApp/blob/main/doc/scrambler-mainmenu.png?raw=true)
 
 ## Documentation
 The Scrambler is a simple, modern, Python encryption tool that makes it easy to secure and/or obfuscate messages, files, and data. It leverages OpenSSL AES-256 with PBKDF2 to encrypt contents. This guide will go over the different functions within this app.
@@ -120,4 +120,4 @@ Our software is open source and free for public use. If you found any of these r
 
 Bitcoin Address 1: 1GZQY6hMwszqxCmbC6uGxkyD5HKPhK1Pmf
 
-![alt text](https://github.com/ArcticTechnology/BitcoinAddresses/blob/main/btcaddr1.png?raw=true)
+![alt text](https://github.com/Careworker/BitcoinAddresses/blob/main/btcaddr1.png?raw=true)
