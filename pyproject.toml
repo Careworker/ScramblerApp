@@ -8,7 +8,8 @@ build-backend = "setuptools.build_meta"
 name = "ScramblerApp"
 version = "0.4.0"
 authors = [
-    { name = "ArcticTechnology", email = "arctic.technology.mail@gmail.com" },
+    { name = "Careworker", email = "13512073+Careworker@users.noreply.github.com" },
+    { name = "Franco Masotti", email = "franco.masotti@tutanota.com" },
 ]
 description = "Encrypt messages, files, and data."
 keywords = [
@@ -56,7 +57,7 @@ file = "README.md"
 content-type = "text/markdown"
 
 [project.urls]
-Homepage = "https://github.com/ArcticTechnology/ScramblerApp"
+Homepage = "https://github.com/Careworker/ScramblerApp"
 
 [project.scripts]
 scramblerapp = "scramblerapp.main:main"
